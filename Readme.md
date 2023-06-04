@@ -4,4 +4,4 @@ Tabela feita para cumprir um desafio de código. A tabela é feita usando soment
 
 Se tiver alguma sugestão de melhora ou clean code, é só ajudar.🖤
 
-[<img src="./foto.gif" allign=center>]
+<img src="./foto.gif">
