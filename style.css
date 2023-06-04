@@ -1,0 +1,32 @@
+body *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tabela-cabecalho{
+    text-align: center;
+    background-color: #BB86FC;
+    color: white;
+    padding: 1rem;
+}
+.tabela-dados{
+    text-align: left;
+    background-color: #424250;
+    color: white;
+    padding: 1rem;
+}
+
+.tabela-casa{
+    text-align: center;
+    background-color: #00C4B4;
+    color: white;
+    padding: 1rem;
+}
+.tabela-casa-dados{
+    text-align: left;
+    background-color: #424250;
+    color: white;
+    padding: 1rem;
+}
